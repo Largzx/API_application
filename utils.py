@@ -34,3 +34,4 @@ def generate_script(subject, talk_length,
 
 if __name__ == '__main__':
     print(generate_script(subject="应用统计学毕业找工作", talk_length=2, creativity=1.2, model_kind="deepseek-chat", API_key=os.getenv("OPENAI_API_KEY")))
+
