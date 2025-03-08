@@ -7,5 +7,9 @@
 - 输入稿子的话题
 - 选择演讲时长以及模型温度参数（即文本是否更加多样性）
 - 后期可以添加参数presence_penalty来使模型生成更多新词
+---
+>部署链接：https://talk-show-generate.streamlit.app/
+
+---
 
 ![界面展示](./img.png)
