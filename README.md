@@ -9,7 +9,6 @@
 - 后期可以添加参数presence_penalty来使模型生成更多新词
 ---
 >部署链接：https://talk-show-generate.streamlit.app/
-
 ---
 
 ![界面展示](./img.png)
