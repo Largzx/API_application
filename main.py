@@ -30,3 +30,4 @@ if submit:
     st.success("🎉文本已生成！")
     st.subheader("📄脱口秀文本")
     st.write(script)
+
